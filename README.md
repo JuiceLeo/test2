@@ -1,9 +1,7 @@
 # test2
 项目描述
+这是一个使用github的测试
 
-echo "# test" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git remote add origin git@github.com:JuiceLeo/test.git
-git push -u origin master
+之前第一个出现问题，没有点击创建 README.md文件  有些问题
+
+
